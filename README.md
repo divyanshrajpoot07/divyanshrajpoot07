@@ -1,4 +1,4 @@
-👋 Hi there! I'm Your Divyansh
+👋 Hi there! I'm Divyansh
 
 I'm a passionate **Full Stack Developer** who loves building smart, scalable, and user-focused applications. From backend logic to beautiful UI/UX, I enjoy crafting solutions that make an impact.
 
